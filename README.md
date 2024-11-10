@@ -37,6 +37,11 @@ Styling and layout make the application visually appealing and intuitive for use
 This simple but effective setup allows users to perform basic calculations in a user-friendly graphical environment using Python's GUI toolkit.
 
 
+OUTPUT:
+
+<img width="277" alt="Cal1" src="https://github.com/user-attachments/assets/b36f0ee9-525b-41d6-9cd6-6eb30225b429">
+
+<img width="272" alt="Cal2" src="https://github.com/user-attachments/assets/f9a6add7-3a4e-4407-b94f-4c765d1478fe">
 
 
 
